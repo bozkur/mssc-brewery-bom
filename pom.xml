@@ -27,7 +27,7 @@
         <repository-owner>bozkur</repository-owner>
         <repository-name>maven-repo</repository-name>
         <branch-name>main</branch-name>
-        <docker.image.prefix>sfgbeerworks</docker.image.prefix>
+        <docker.image.prefix>bozkur</docker.image.prefix>
         <docker.image.name>${project.artifactId}</docker.image.name>
         <maven.plugin.validation>verbose</maven.plugin.validation>
     </properties>
